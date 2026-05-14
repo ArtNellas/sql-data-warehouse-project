@@ -1,0 +1,1 @@
+SELECT TOP 10 * FROM gold.report_products;
